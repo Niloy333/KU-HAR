@@ -1,0 +1,29 @@
+Stand - A
+Sit - B
+Talk-sit - C
+Talk-stand - D
+Stand-sit - E
+Lay - F
+Lay-stand - G
+Pick - H
+Jump - I
+Push-up - J
+Sit-up - K
+Walk - L
+Walk-backward - M
+Walk-circle - N
+Run - O
+Stair-up - S
+Stair-down - T
+Table-tennis - U
+
+Bike - P
+Kicking - Q
+Stationary biking - R
+
+
+
+
+
+
+
