@@ -64,6 +64,8 @@ Gravity acceleration was omitted from the Acc.meter data, and no filter was appl
 
 ## Reference
 
-N. Sikder and A.-A. Nahid, “KU-HAR: An open dataset for heterogeneous human activity recognition,” Pattern Recognition Letters, vol. 146. Elsevier BV, pp. 46–54, Jun. 2021. doi: 10.1016/j.patrec.2021.02.024. [Read paper](https://www.sciencedirect.com/science/article/pii/S0167865521000933) / [preprint](https://www.researchgate.net/publication/350136683_KU-HAR_An_open_dataset_for_heterogeneous_human_activity_recognition)
+[1] N. Sikder and A.-A. Nahid, “KU-HAR: An open dataset for heterogeneous human activity recognition,” Pattern Recognition Letters, vol. 146. Elsevier BV, pp. 46–54, Jun. 2021. doi: 10.1016/j.patrec.2021.02.024. [Read paper](https://www.sciencedirect.com/science/article/pii/S0167865521000933) / [preprint](https://www.researchgate.net/publication/350136683_KU-HAR_An_open_dataset_for_heterogeneous_human_activity_recognition)
+
+[2] N. Sikder, M. A. R. Ahad, and A.-A. Nahid, “Human Action Recognition Based on a Sequential Deep Learning Model,” 2021 Joint 10th International Conference on Informatics, Electronics &amp; Vision (ICIEV) and 2021 5th International Conference on Imaging, Vision &amp; Pattern Recognition (icIVPR). IEEE, Aug. 16, 2021. doi: 10.1109/icievicivpr52578.2021.9564234. [Read paper](https://ieeexplore.ieee.org/abstract/document/9564234) / [preprint](https://www.researchgate.net/publication/355394178_Human_Action_Recognition_Based_on_a_Sequential_Deep_Learning_Model)
 
 Backup: drive.google.com/drive/folders/1yrG8pwq3XMlyEGYMnM-8xnrd6js0oXA7
