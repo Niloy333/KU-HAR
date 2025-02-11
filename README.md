@@ -5,22 +5,39 @@ Human Activity Recognition (HAR) refers to the capacity of machines to perceive 
 ## Classes
 
 Stand➞ Standing still (1 min)
+
 Sit➞ Sitting still (1 min) 
+
 Talk-sit➞ Talking with hand movements while sitting (1 min) 
+
 Talk-stand➞ Talking with hand movements while standing or walking(1 min) 
+
 Stand-sit➞ Repeatedly standing up and sitting down (5 times)
+
 Lay➞ Laying still (1 min) 
+
 Lay-stand➞ Repeatedly standing up and laying down (5 times)
+
 Pick➞ Picking up an object from the floor (10 times)
+
 Jump➞ Jumping repeatedly (10 times)
+
 Push-up➞ Performing full push-ups (5 times)
+
 Sit-up➞ Performing sit-ups (5 times)
+
 Walk➞ Walking 20 meters (≈12 s)
+
 Walk-backward➞ Walking backward for 20 meters (≈20 s)
+
 Walk-circle➞ Walking along a circular path (≈ 20 s)
+
 Run➞ Running 20 meters (≈7 s)
+
 Stair-up➞ Ascending on a set of stairs (≈1 min)
+
 Stair-down➞ Descending from a set of stairs (≈50 s)
+
 Table-tennis➞ Playing table tennis (1 min)
 
 ## Access Dataset
